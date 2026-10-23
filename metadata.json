@@ -1,0 +1,6 @@
+{
+  "name": "CipherVault - Zero-Trust Private Circle",
+  "description": "Production-grade Zero-Trust encrypted private workspace and messaging client for the 6-member circle, featuring Signal Protocol E2EE, expense splitter, and group planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
