@@ -66,7 +66,7 @@ export const SmsConsole: React.FC<SmsConsoleProps> = ({
       {/* Message preview card */}
       <div className="bg-[#0e161b] p-3 rounded-lg border border-neutral-800/80 mb-3">
         <p className="text-xs text-neutral-300 leading-relaxed font-sans">
-          <span className="text-emerald-400 font-semibold">[CipherVault]</span> Your zero-trust authorization OTP is:{' '}
+          <span className="text-emerald-400 font-semibold">[Master Boys App]</span> Your zero-trust authorization OTP is:{' '}
           <span className="font-mono font-bold text-emerald-300 tracking-wider text-base px-1.5 py-0.5 bg-emerald-950/60 rounded">
             {otpCode}
           </span>

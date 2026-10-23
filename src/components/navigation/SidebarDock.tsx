@@ -25,7 +25,7 @@ export const SidebarDock: React.FC<SidebarDockProps> = ({ activeTab, onSelectTab
         <button
           onClick={() => onSelectTab('chat')}
           className="p-2.5 rounded-2xl bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/20 transition-all shadow-sm cursor-pointer"
-          title="Master Boys Secure Workspace"
+          title="Master Boys Private App"
         >
           <Shield className="w-6 h-6" />
         </button>

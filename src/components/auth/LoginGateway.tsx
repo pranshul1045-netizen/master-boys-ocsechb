@@ -142,10 +142,10 @@ export const LoginGateway: React.FC = () => {
             <Shield className="w-7 h-7" />
           </div>
           <h1 className="text-2xl font-bold tracking-tight text-white mb-1">
-            CipherVault
+            Master Boys Private App
           </h1>
           <p className="text-xs text-neutral-400">
-            Zero-Trust Encrypted Workspace · Master Boys (6 Friends)
+            Zero-Trust Encrypted Workspace · 6 Authorized Friends
           </p>
         </div>
 
